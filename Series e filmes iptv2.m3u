@@ -1,43 +1,31 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="FILMES",FILMES
-
-#EXTINF:-1 group-title="SÉRIES",SÉRIES
-
-#EXTINF:-1 group-title="SÉRIES/A Grande Família do Alasca/2 temporada",A Grande Família do Alasca (2014) S02E09
-http://park.xthermas.top:80/play/8DIAd2EyqVrFJf0JIVJRweC8jdIchQ5ofVma2qN5R-lOIrLkVhvJJsadYZ8MMmca#.mp4
-#EXTINF:-1 group-title="SÉRIES/A Grande Família do Alasca/2 temporada",A Grande Família do Alasca (2014) S02E08
-http://park.xthermas.top:80/play/8DIAd2EyqVrFJf0JIVJRwRMu24ihwZCKSF9Xgki9KMlbR_Vld4KUiA_rh-7L_p5m#.mp4
-#EXTINF:-1 group-title="SÉRIES/A Grande Família do Alasca/2 temporada",A Grande Família do Alasca (2014) S02E07
-http://park.xthermas.top:80/play/8DIAd2EyqVrFJf0JIVJRwQaKzphHpi5wuzhwwius0ZTrugIQpUeYvA5H3aGJIHBB#.mp4
-#EXTINF:-1 group-title="SÉRIES/A Grande Família do Alasca/2 temporada",A Grande Família do Alasca (2014) S02E06
-http://park.xthermas.top:80/play/8DIAd2EyqVrFJf0JIVJRwRe3wfSfG1VYSCQp-w87wa3qHRtBzTn8j4VZqOmOlGwl#.mp4
-#EXTINF:-1 group-title="SÉRIES/A Grande Família do Alasca/2 temporada",A Grande Família do Alasca (2014) S02E05
-http://park.xthermas.top:80/play/8DIAd2EyqVrFJf0JIVJRwVzUzsMMbwkzf9gtGkrB3vUtTRKVeHfbnEEgfagj3kk_#.mp4
-#EXTINF:-1 group-title="SÉRIES/A Grande Família do Alasca/2 temporada",A Grande Família do Alasca (2014) S02E04
-http://park.xthermas.top:80/play/8DIAd2EyqVrFJf0JIVJRwSYKqnsj6D4LW895hdcCpjrhzyxHd41QBDkS6XDJoxL3#.mp4
-#EXTINF:-1 group-title="SÉRIES/A Grande Família do Alasca/2 temporada",A Grande Família do Alasca (2014) S02E03
-http://park.xthermas.top:80/play/8DIAd2EyqVrFJf0JIVJRwRw2uvMmFdhmyIUQ_jxVc00xHRMjhx-4Zsd5lR56rMXY#.mp4
-#EXTINF:-1 group-title="SÉRIES/A Grande Família do Alasca/2 temporada",A Grande Família do Alasca (2014) S02E02
-http://park.xthermas.top:80/play/8DIAd2EyqVrFJf0JIVJRwXT3fQxk6GS2xqZzUeoq9qXIBbR8nTWrtHedMcPmUcDG#.mp4
-
-#EXTINF:-1 group-title="SÉRIES/A Grande Família do Alasca/3 temporada",A Grande Família do Alasca (2014) S03E10
+#EXTINF:-1 xui-id="1941469" tvg-name="A Grande Família do Alasca (2014) S03E10" tvg-logo="http://timg.bdta.pro/images/3849a54119b70c5def1ce33df480bb80.jpg" group-title="SÉRIES 1 - OUTRAS PRODUTORAS",A Grande Família do Alasca (2014) S03E10
 http://park.xthermas.top:80/play/8DIAd2EyqVrFJf0JIVJRwbEzWZ3Tf6nclMcFn2n2TIMGcJKzjs-fKaOD0rjEX0ec#.mp4
-#EXTINF:-1 group-title="SÉRIES/A Grande Família do Alasca/3 temporada",A Grande Família do Alasca (2014) S03E09
+
+#EXTINF:-1 xui-id="1941468" tvg-name="A Grande Família do Alasca (2014) S03E09" tvg-logo="http://timg.bdta.pro/images/3849a54119b70c5def1ce33df480bb80.jpg" group-title="SÉRIES 1 - OUTRAS PRODUTORAS",A Grande Família do Alasca (2014) S03E09
 http://park.xthermas.top:80/play/8DIAd2EyqVrFJf0JIVJRwb0K8t2B6iLaKpA3aetyaRPoPo3DeSxnxwdNYLWUgUDb#.mp4
-#EXTINF:-1 group-title="SÉRIES/A Grande Família do Alasca/3 temporada",A Grande Família do Alasca (2014) S03E08
+
+#EXTINF:-1 xui-id="1941467" tvg-name="A Grande Família do Alasca (2014) S03E08" tvg-logo="http://timg.bdta.pro/images/3849a54119b70c5def1ce33df480bb80.jpg" group-title="SÉRIES 1 - OUTRAS PRODUTORAS",A Grande Família do Alasca (2014) S03E08
 http://park.xthermas.top:80/play/8DIAd2EyqVrFJf0JIVJRwbxm64FlWEkcr1nMnENI-u1DYHmu-29BkB4tGtlnru4Y#.mp4
-#EXTINF:-1 group-title="SÉRIES/A Grande Família do Alasca/3 temporada",A Grande Família do Alasca (2014) S03E07
-http://park.xthermas.top:80/play/8DIAd2EyqVrFJf0JIVJRwRQNFq1PadSPiQnx24WycX-x5vTGTAcBebFCNvOOaVLW#.mp4
-#EXTINF:-1 group-title="SÉRIES/A Grande Família do Alasca/3 temporada",A Grande Família do Alasca (2014) S03E06
+
+#EXTINF:-1 xui-id="1941466" tvg-name="A Grande Família do Alasca (2014) S03E07" tvg-logo="http://timg.bdta.pro/images/3849a54119b70c5def1ce33df480bb80.jpg" group-title="SÉRIES 1 - OUTRAS PRODUTORAS",A Grande Família do Alasca (2014) S03E07
 http://park.xthermas.top:80/play/8DIAd2EyqVrFJf0JIVJRwV2smVKzOeDlwX13FSLO0Ro7baqvrmHX4hVnVd1ByVnb#.mp4
-#EXTINF:-1 group-title="SÉRIES/A Grande Família do Alasca/3 temporada",A Grande Família do Alasca (2014) S03E05
+
+#EXTINF:-1 xui-id="1941465" tvg-name="A Grande Família do Alasca (2014) S03E06" tvg-logo="http://timg.bdta.pro/images/3849a54119b70c5def1ce33df480bb80.jpg" group-title="SÉRIES 1 - OUTRAS PRODUTORAS",A Grande Família do Alasca (2014) S03E06
 http://park.xthermas.top:80/play/8DIAd2EyqVrFJf0JIVJRwaIH73cf8AEuQdB30B5dYl4pZIRPLmwxo7Q7vKYiX2rQ#.mp4
-#EXTINF:-1 group-title="SÉRIES/A Grande Família do Alasca/3 temporada",A Grande Família do Alasca (2014) S03E04
+
+#EXTINF:-1 xui-id="1941464" tvg-name="A Grande Família do Alasca (2014) S03E05" tvg-logo="http://timg.bdta.pro/images/3849a54119b70c5def1ce33df480bb80.jpg" group-title="SÉRIES 1 - OUTRAS PRODUTORAS",A Grande Família do Alasca (2014) S03E05
 http://park.xthermas.top:80/play/8DIAd2EyqVrFJf0JIVJRwX9Zf82IgCJmEGjAWSf6VStv3wsu-NHnha2BX-LNKVet#.mp4
-#EXTINF:-1 group-title="SÉRIES/A Grande Família do Alasca/3 temporada",A Grande Família do Alasca (2014) S03E03
+
+#EXTINF:-1 xui-id="1941463" tvg-name="A Grande Família do Alasca (2014) S03E04" tvg-logo="http://timg.bdta.pro/images/3849a54119b70c5def1ce33df480bb80.jpg" group-title="SÉRIES 1 - OUTRAS PRODUTORAS",A Grande Família do Alasca (2014) S03E04
 http://park.xthermas.top:80/play/8DIAd2EyqVrFJf0JIVJRwYBk1HSNV9jO5UfdeMXTdk4XJIFceIL63ce8OVaWJWXz#.mp4
-#EXTINF:-1 group-title="SÉRIES/A Grande Família do Alasca/3 temporada",A Grande Família do Alasca (2014) S03E02
+
+#EXTINF:-1 xui-id="1941462" tvg-name="A Grande Família do Alasca (2014) S03E03" tvg-logo="http://timg.bdta.pro/images/3849a54119b70c5def1ce33df480bb80.jpg" group-title="SÉRIES 1 - OUTRAS PRODUTORAS",A Grande Família do Alasca (2014) S03E03
 http://park.xthermas.top:80/play/8DIAd2EyqVrFJf0JIVJRwRDjNYuQZmjfXY8luBnsp8IHI_g0ElVCdMm2AHQZABBA#.mp4
-#EXTINF:-1 group-title="SÉRIES/A Grande Família do Alasca/3 temporada",A Grande Família do Alasca (2014) S03E01
+
+#EXTINF:-1 xui-id="1941461" tvg-name="A Grande Família do Alasca (2014) S03E02" tvg-logo="http://timg.bdta.pro/images/3849a54119b70c5def1ce33df480bb80.jpg" group-title="SÉRIES 1 - OUTRAS PRODUTORAS",A Grande Família do Alasca (2014) S03E02
 http://park.xthermas.top:80/play/8DIAd2EyqVrFJf0JIVJRwT91qejuYsoZ8cF1jd2Qf2znU-XL_oVvQ4yDaoiNLhZH#.mp4
+
+#EXTINF:-1 xui-id="1941460" tvg-name="A Grande Família do Alasca (2014) S03E01" tvg-logo="http://timg.bdta.pro/images/3849a54119b70c5def1ce33df480bb80.jpg" group-title="SÉRIES 1 - OUTRAS PRODUTORAS",A Grande Família do Alasca (2014) S03E01
+http://park.xthermas.top:80/play/8DIAd2EyqVrFJf0JIVJRwZzJX5t96oIylSP2PJhlC1mmxYfs69d375eVQXh-SD_e#.mp4
